@@ -4,7 +4,7 @@ Prakhyat Gailani
 
 ## Project Title
 
-Twitter Trend and Search
+Twitter Trend and Search and Drag
 
 ## Dependencies and steps on how to install
 
